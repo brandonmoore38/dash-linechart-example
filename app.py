@@ -5,20 +5,20 @@ import plotly.graph_objs as go
 
 ########### Define your variables ######
 
-myheading = "Baseball Stats from the 1950s"
-mytitle = "Batting Averages for 3 Hall of Famers"
-x_values = ['1954', '1955', '1956', '1957', '1958', '1959']
-y1_values = [345, 356, 345, 388, 328, 254]
-y2_values = [300, 306, 353, 365, 304, 285]
-y3_values = [280, 314, 328, 322, 326, 355]
-color1 = '#fc9403'
-color2 = '#0307fc'
+myheading = "International Cornhole Stats from 1940s"
+mytitle = "Average Cornhole Percentage for 3 Hall of Famers"
+x_values = ['1940', '1941', '1942', '1943', '1944', '1945']
+y1_values = [703, 757, 803, 832, 769, 720]
+y2_values = [690, 660, 789, 750, 708, 635]
+y3_values = [701, 648, 804, 789, 692, 705]
+color1 = '#0431B4'
+color2 = '#BE81F7'
 color3 = '#9003fc'
-name1 = 'Ted Williams'
-name2 = 'Mickey Mantle'
-name3 = 'Hank Aaron'
-tabtitle = 'baseball'
-sourceurl = 'https://www.baseball-reference.com'
+name1 = 'Leroy "Lightbulb" Williams'
+name2 = 'Jeb "HotPocket" Smith'
+name3 = 'Tyrone "Time Out" Monroe'
+tabtitle = 'Cornhole'
+sourceurl = 'https://www.cornhole-reference.com'
 githublink = 'https://github.com/austinlasseter/dash-linechart-example'
 
 ########### Set up the chart
