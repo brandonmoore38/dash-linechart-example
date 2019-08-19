@@ -19,7 +19,7 @@ name2 = 'Jeb "HotPocket" Smith'
 name3 = 'Tyrone "Time Out" Monroe'
 tabtitle = 'Cornhole'
 sourceurl = 'https://www.cornhole-reference.com'
-githublink = 'https://github.com/austinlasseter/dash-linechart-example'
+githublink = 'https://github.com/brandonmoore38/dash-linechart-example'
 
 ########### Set up the chart
 
